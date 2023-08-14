@@ -6,7 +6,7 @@
     <title>Robôs Autônomos e a Indústria 4.0</title>
 </head>
 <body>
-    <h1>Robôs Autônomos e a Indústria 4.0</h1>
+    <h1>Robôs Autônomos e a Indústria 4.0 </h1>
     
     <h2>Introdução</h2>
     <p>A Indústria 4.0 trouxe uma revolução para as fábricas atuais, otimizando e potencializando processos convencionais por meio de tecnologias inovadoras. Um desses conceitos-chave é a utilização de robôs autônomos, que desempenham um papel fundamental nessa transformação. A Indústria 4.0 se baseia em pilares tecnológicos que podem ser aplicados de forma flexível de acordo com as necessidades de cada empresa, e os robôs autônomos são uma das tecnologias mais proeminentes.</p>
