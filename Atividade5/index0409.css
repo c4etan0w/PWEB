@@ -1,0 +1,66 @@
+img{
+    max-width: 100%; /*preenche 100% a largura do pai*/
+    height: auto;
+    display: block;
+    margin: 0 auto;
+
+}
+
+.imagem
+{
+    margin: 0 auto;
+    border-radius: 15px;
+    max-width: 100%;
+    overflow: hidden;
+}
+
+.esquerda{
+    float: left;
+    width: 50%;
+
+}
+
+.direita{
+    float: right;
+    width: 50%;
+}
+
+.legenda{
+    text-align: center;
+}
+
+.rodapé{
+    font-style: italic;
+    text-align: center;
+    color:#fff;
+}
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    color: #fff;
+
+}
+body {
+    background-image: url('black.jpg');
+    background-repeat: no-repeat;
+    background-size: cover; /* ou outras propriedades de dimensionamento, como 'contain' */
+    background-color: #f0f0f0; /* Cor de fundo de backup */
+}
+h1{
+    text-align: center;
+}
+.botao-vermelho {
+    background-color: red;
+    color: white;
+    padding: 15px 30px;
+    border: none;
+    border-radius: 5px;
+    margin-right: 20px; /* Espaço entre os botões */
+}
+
+.botao-verde {
+    background-color: green;
+    color: white;
+    padding: 15px 30px;
+    border: none;
+    border-radius: 5px;
+}
