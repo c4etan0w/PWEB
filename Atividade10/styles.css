@@ -1,0 +1,40 @@
+body {
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    margin: 20px;
+    padding: 0;
+    background-color: purple; /* Define a cor de fundo como roxa */
+    color: white; /* Define a cor do texto como branca */
+}
+
+h1 {
+    text-align: center;
+}
+
+div {
+    margin: 20px;
+    padding: 10px;
+    text-align: center;
+    background-color: purple; /* Define a cor de fundo como roxa para os divs */
+    color: white; /* Define a cor do texto como branca para os divs */
+}
+
+h2 {
+    text-align: center;
+    margin-top: 0;
+}
+
+p {
+    margin: 0;
+}
+
+span {
+    font-weight: bold;
+}
+
+footer{
+    text-align: center;
+    background-color: purple;
+    color: white;
+    padding: 10px;
+    margin-top: auto;
+}
