@@ -2,7 +2,7 @@
 <table border=0>
 <tr> <td width="50%">
 
-<h3>Público Alvo<h3>
+<h3>Público Alvo</h3>
 <br>- Meus colegas de sala;<br>
 <br>- Ouvintes e amantes de rock clássico;<br>
 <br>- Amigos e Familiares.<br>
