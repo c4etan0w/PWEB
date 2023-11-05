@@ -13,7 +13,7 @@
  </td>
  <td width="50%">
 <p align="center">
-<img src="/tela.png" width="100%"/>
+<img src="\tela.png" width="100%"/>
   </p>
    </td></tr>
 </table>
