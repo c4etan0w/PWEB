@@ -3,7 +3,7 @@ var connSQLServer = function(){
  console.log('Conexao com o banco de dados estabelecida!');
  const sqlConfig = {
     user: 'BD2211022',
-    password: 'Cyv64330.',
+    password: '#########', //minha senha
     database: 'LP2', //Na FATEC, utilizar o database BD ou LP8
     server: 'Apolo', //Na FATEC, utilizar o ip: 192.168.1.6 no nome do servidor
     driver: 'msnodesqlv8',
